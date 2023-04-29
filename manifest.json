@@ -1,0 +1,11 @@
+ {
+    "name": "Random Cat Generator",
+    "version": "1.0.0",
+    "description": "Generate random pictures of cats",
+    "manifest_version": 3,
+    "author": "AC2",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "RCG"
+    }
+}
